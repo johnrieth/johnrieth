@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @johnrieth
-- 👀 I’m interested in civic tech, central bank communications, and real estate
-- 🌱 I’m currently learning SQL, NLP, and Rails
-- 💞️ I’m looking to collaborate on civic tech for Los Angeles
-- 📫 How to reach me john@rieth.dev
+# John Rieth
 
-<!---
-johnrieth/johnrieth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Research administrator by day, building civic tech and financial research by night.
+Based in Los Angeles.
+
+## Current Projects
+
+- **[redtape.la](https://redtape.la)** — Documenting bureaucratic obstacles to housing
+  development in Los Angeles
+- **[cb-text-analytics](https://github.com/johnrieth/cb-text-analytics)** — NLP analysis
+  of central bank communications for monetary policy research
+
+## Interests
+
+Civic tech · Housing policy · Central bank communications
+
+## Skills
+
+Ruby on Rails · Python · SQL · Financial modeling · Kamal / Hetzner deployment
+
+## Collaboration
+
+Open to civic tech projects in Los Angeles, especially anything touching housing,
+land use, or local government transparency.
+
+📫 [john@rieth.dev](mailto:john@rieth.dev)
